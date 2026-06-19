@@ -3,3 +3,7 @@
 외부 강의용 특강 자료
 
 
+'''
+https://9kwon.github.io/Lecture_for_highschool/
+'''
+
