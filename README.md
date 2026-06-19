@@ -5,5 +5,5 @@
 ## 바로 보기
 
 ```
-https://9kwon.github.io/ai-language-lecture/
+[https://9kwon.github.io/ai-language-lecture/](https://9kwon.github.io/Lecture_for_highschool/) 
 ```
